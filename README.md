@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Herivelton
+Herivelton Andreassa
 ==================================================================================================================================
 
 Data Engineer
 -------------
 
-*   🌍  I'm based in Curitiba, Brazil
+*   🌍  Based in Curitiba, Brazil
 
 ### Skills 
 <p align="left">
